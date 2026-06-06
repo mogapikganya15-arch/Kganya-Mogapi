@@ -1,4 +1,3 @@
-# Kganya-Mogapi
 # Hi there, I'm Kganya Brian Mogapi! 👋
 
 I am an Information Technology and Computer Science graduate with a strong foundation in networking, cybersecurity, and front-end web development. I am passionate about building secure, efficient, and user-friendly digital solutions.
