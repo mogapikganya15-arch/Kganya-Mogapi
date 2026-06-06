@@ -24,25 +24,12 @@ I am an Information Technology and Computer Science graduate with a strong found
 
 ---
 
-### 📁 Featured Projects
-
-#### 🌐 Project 1: [Insert Project Name, e.g., Personal Portfolio Website]
-* **Description:** A responsive website showcasing my skills, education, and projects.
-* **Tech Stack:** HTML, CSS, JavaScript
-* **Features:** Interactive menus, clean layout, mobile-friendly design.
-* **[Link to Repository](https://github.com)**
-
-#### 💻 Project 2: [Insert Project Name, e.g., Network Simulation or Interactive App]
-* **Description:** A practical application demonstrating JavaScript functionality or a documented Cisco Packet Tracer network layout.
-* **Tech Stack:** JavaScript / Cisco Packet Tracer
-* **Features:** Form validation, dynamic DOM manipulation, or secure subnetting design.
-* **[Link to Repository](https://github.com)**
 
 ---
 
 ### 🚀 Let's Connect!
 
-* **GitHub:** [://github.com](https://://github.com)
-* **LinkedIn:** [Your LinkedIn Profile Link]
-* **Email:** your.email@example.com
+* **GitHub:** [mogapikganya15-arch)
+* **LinkedIn:** [https://www.linkedin.com/in/kganya-brian-mogapi-4a266022b]
+* **Email:** mogapikganya15@gmail.com 
 
