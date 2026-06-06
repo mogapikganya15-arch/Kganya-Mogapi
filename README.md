@@ -29,7 +29,7 @@ I am an Information Technology and Computer Science graduate with a strong found
 
 ### 🚀 Let's Connect!
 
-* **GitHub:** [mogapikganya15-arch)
+* **GitHub:** [https://github.com/kganya-mogapi)
 * **LinkedIn:** [https://www.linkedin.com/in/kganya-brian-mogapi-4a266022b]
 * **Email:** mogapikganya15@gmail.com 
 
